@@ -1,0 +1,91 @@
+{
+  "technische_angaben": {
+    "pid": "https://sammlungen.ub.uni-frankfurt.de/botanik",
+    "zugang": "https://sammlungen.ub.uni-frankfurt.de/botanik/nav/index/all",
+    "bezug": null,
+    "technische_dokumentation": null,
+    "teil_von": "",
+    "dateien_datenströme": null,
+    "fcs_endpoint": null,
+    "enthält": null,
+    "hierarchie": null,
+    "fcs_resource-id": null
+  },
+  "organisatorische_angaben": {
+    "datenverantwortliche_institution": {
+      "basic_information": {
+        "name": "Universitätsbibliothek Johann Christian Senckenberg"
+      }
+    },
+    "förderer_id": null,
+    "förderer": "Deutsche Forschungsgemeinschaft (DFG)",
+    "ansprechperson": {
+      "basic_information": {
+        "lastname": "biofid@ub.uni-frankfurt.de"
+      }
+    },
+    "datenverantwortliche_person": {
+      "basic_information": {
+        "lastname": ""
+      }
+    },
+    "projekttitel": ""
+  },
+  "inhaltliche_angaben": {
+    "lizenz-url": "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de",
+    "genre": [
+      "Zeitschriftensammlung"
+    ],
+    "titel": "Botanische Zeitschriften",
+    "erstellungsdatum": null,
+    "volltext_verfügbar": "ja",
+    "beschreibung": "Deutsche botanische Zeitschriften des Zeitraums 1753-1914 wurden im Rahmen eines zweijährigen DFG-Projektes digitalisiert und erschlossen (Abschluss September 2013). Zeitschriften, bei denen Schriftart und –qualität es erlaubten, wurden einer Texterkennung (OCR) unterzogen und sind im Volltext durchsuchbar.",
+    "modalität": "geschrieben",
+    "größe": "etwa 220.000 Seiten aus etwa 180 Zeitschriften",
+    "veröffentlichungsdatum": null,
+    "schlagworte": [
+      ""
+    ],
+    "größe_objekte": [
+      {
+        "typ": "Zeitschriften", 
+        "umfang": 180
+      }
+    ],
+    "lizenz": "CC BY-NC-SA.",
+    "datentyp": [
+      "Text"
+    ],
+    "annotationslayer": [
+    ],
+    "größe_ressource": [
+      {
+        "umfang": null,
+        "typ": null
+      }
+    ],
+    "größe_länge": [
+      {
+        "typ": "",
+        "umfang": 0
+      }
+    ],
+     "sprache": [
+      "deu",
+      "lat",
+      "ita",
+      "fra",
+      "eng",
+      "ces",
+      "rus"
+
+    ],
+    "abgedeckter_zeitraum": "1753-1914",
+    "kollektionstyp": "Textsammlung",
+    "fachliche_zuordnung": [
+      "Biologie",
+      "Biodiversitätsfoschung",
+      "Botanik"
+    ]
+  }
+}
